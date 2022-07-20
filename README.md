@@ -7,14 +7,14 @@
 ### What I do:
 
 - 🌱 Currently learning AWS, Kubernetes and cloud stuff.
-- ⚙️ Working for **AlfaIoT** as Fullstack Developer.
+- ⚙️ Working for **Passporter** as Frontend Web Developer.
 - 👯 Looking for collaboration in **modern web** applications.
 - 💬 Ask me about `frontend`, `vue`, `javascript`, `typescript`, `nodejs`, `docker`
 
 <h3 align="left">✉️ Contact</h3>
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Andres%20Yepes-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/andresyv/)](https://www.linkedin.com/in/andresyv/) 
-- [![Gmail Badge](https://img.shields.io/badge/-andresyepes2093-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:andresyepes2093@gmail.com)](mailto:andresyepes2093@gmail.com)
+- [![Gmail Badge](https://img.shields.io/badge/-andresyepesdev-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:andresyepesdev@gmail.com)](mailto:andresyepesdev@gmail.com)
 
 ### ⚡ Technologies
 
